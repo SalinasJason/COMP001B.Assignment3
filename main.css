@@ -21,11 +21,11 @@ aside {
 }
 
 footer {
-
+	clear: both;
 }
 
 header {
-
+	margin-left: 1em;
 }
 
 img {
@@ -35,6 +35,8 @@ img {
 main {
 	width: 50%;
 	float: left;
+	position: relative;
+	right: 5em;
 }
 
 nav {
@@ -47,5 +49,5 @@ nav {
 }
 
 #main-container {
-
+	margin: 1em;
 }
